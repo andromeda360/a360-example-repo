@@ -16,12 +16,12 @@ The directory structure is below:
 
 ```
 
-	|-- business use case 			
-		|-- model flavor				<- sklearn, tensorflow, pytorch
-			|-- local_env				<- model development in user's local environment
-			|-- a360_env_e2e			<- end-to-end model development in A360 environment
-			|-- a360_env_import			<- users bring the pre-built model for deployment 
-			|-- deployment				<- deployment script example
+|-- business use case 			
+	|-- model flavor			<- sklearn, tensorflow, pytorch
+		|-- local_env			<- model development in user's local environment
+		|-- a360_env_e2e		<- end-to-end model development in A360 environment
+		|-- a360_env_import		<- users bring the pre-built model for deployment 
+		|-- deployment			<- deployment script example
 
 ```
 
