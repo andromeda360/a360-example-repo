@@ -4,7 +4,7 @@
 
 ![image](a360_logo.png)
 
-This is the template repository to get started with A360 AI Platform. A360 AI is the next generation ML platform, aiming to help data scientists/ analysts focus on model development and create business values by abstracting infrastructure complexities from them. A360 AI's key technologies are `MDK` (Model Development Kit) and `Starpack` (zero-touch model deployment in 5-10 mins with only a few clicks). More information can be found in [A360 AI website](https://andromeda360.ai/).
+This is the template repository to get started with A360 AI Platform. A360 AI is the next generation ML platform, aiming to help data scientists/ analysts focus on model development and create business values by abstracting infrastructure complexities from them. A360 AI's key technologies are `MDK` (Model Development Kit) and `Starpack` (single-touch model deployment in 5-10 mins with only a few clicks). More information can be found in [A360 AI website](https://andromeda360.ai/).
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ We provide generic notebook examples for each business use cases and assume user
 
 We provide notebook starter examples for data scientist users to develop their ML models in A360 environment. `MDK` (Model Development Kit) is pre-built in all A360 environments. The starter notebooks provide practical examples on how data scientist can use `MDK` to easily interact with A360 Data Repo (with managing cloud credentials) as well as ML experiment tracking by only adding a few line of code. We also have `MDK` examples on how to register model for `Starpack` deployment in A360 environment. Since `MDK` is a powerful tool to help data scientists develop models effectively, we encourage users to do their end-to-end data science work in A360 environment. The full end-to-end example notebooks are located in `a360_env_e2e` directory.
 
-However, in some cases, data scientists might use other ML tooling and environment they are familar with to build their ML models, such as MLflow or SageMaker. A360 AI Platform provide options for A360 users to import the model artifacts and register the model in `Starpack` so you can utilize the zero-touch ML deployment in A360 AI. The model import example notebooks are located in `a360_env_import`.
+However, in some cases, data scientists might use other ML tooling and environment they are familar with to build their ML models, such as MLflow or SageMaker. A360 AI Platform provide options for A360 users to import the model artifacts and register the model in `Starpack` so you can utilize the single-touch ML deployment in A360 AI. The model import example notebooks are located in `a360_env_import`.
 
 ## Deployment
 
