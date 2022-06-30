@@ -20,4 +20,4 @@ Classification.
 
 ## Model flavor built for this use case
 
-Sklearn (Random Forest), TensorFlow, PyTorch.
+Sklearn (Random Forest), TensorFlow, Xgboost.
