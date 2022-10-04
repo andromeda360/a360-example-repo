@@ -4,8 +4,8 @@
 
 ![image](a360_logo.png)
 
-## [NEW]
-A360 AI community edition is now available. You can get free compute to train, test, and deploy your machine learning (ML) models. You can try out A360 AI's fast ML deployment with only a few clicks. Sign up [here](https://andromeda360.ai/community-edition/).
+## [NEW- Oct 2022]
+A360 AI community edition is now available. You can get free compute to train, test, and deploy your machine learning (ML) models. You can try out A360 AI's fast ML deployment and power model experiment tracking. Sign up [here](https://andromeda360.ai/community-edition/).
 
 ## Introduction
 
