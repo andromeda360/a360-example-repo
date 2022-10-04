@@ -7,6 +7,8 @@
 ## [NEW]
 A360 AI community edition is now available. You can get free compute to train, test, and deploy your machine learning (ML) models. You can try out A360 AI's fast ML deployment with only a few clicks. Sign up [here](https://andromeda360.ai/community-edition/).
 
+## Introduction
+
 This is the template repository to get started with A360 AI Platform. A360 AI is the next generation ML platform, aiming to help data scientists/ analysts focus on model development and create business values by abstracting infrastructure complexities from them. A360 AI's key technologies are `MDK` (Model Development Kit) and `Starpack` (single-touch model deployment in 5-10 mins with only a few clicks). More information can be found in [A360 AI website](https://andromeda360.ai/).
 
 ## Getting Started
