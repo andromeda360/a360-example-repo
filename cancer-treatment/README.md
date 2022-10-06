@@ -23,3 +23,6 @@ Classification.
 ## Model flavor built for this use case
 
 Sklearn (Random Forest).
+
+## [NEW]
+A360 AI community edition is now available. You can get free compute to train, test, and deploy your machine learning (ML) models. You can try out A360 AI's fast ML deployment and power model experiment tracking. Sign up [here](https://andromeda360.ai/community-edition/).
